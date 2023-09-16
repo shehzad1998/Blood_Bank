@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+  .bg{
+      height: 100%;
+      width: 100%;
+      background-position: center;
+      background-size: cover;
+      position: absolute; 
+  }
+  .form-box{
+    width: 650px;
+    height: 350px;
+    position: relative;
+    margin: 3% auto;
+    margin-top: 2% auto;
+    background: #fff;
+    padding: 5px;
+    overflow: hidden;
+    left: 50px;
+}
+.table{
+  
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    margin-bottom: auto;  
+}
+  .search{
+      align-content: center;
+      width: 320px;
+      height: 80px;
+      margin: 20px auto;
+      position: relative;
+      border-radius: 30px;
+  }
+  #blood-grp{
+    font-size: 15px;
+  }
+    
+  .more-padding-on-right {
+    padding-right: 30px;
+  }
+  .more-padding-on-bottom {
+      padding-bottom: 30px;
+    }
+  .submit-btn{
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block; 
+    margin: 60px;
+    background: linear-gradient(to top, rgb(248, 6, 6),rgb(187, 26, 26));
+    outline: none;
+    border-radius: 30px;
+}

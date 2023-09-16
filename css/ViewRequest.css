@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+  .bg{
+      height: 100%;
+      width: 100%;
+      background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(../Img/bg.jpg);
+      background-position: center;
+      background-size: cover;
+      position: absolute; 
+  }
+  .form-box{
+    width: auto;
+    height: auto;
+    margin-top:50px; 
+    margin-bottom:50px;
+    position: relative;
+    margin: 3% auto;
+    margin-top: 2% auto;
+    background-color:#f8f1e4; border:2px solid red; box-shadow:4px 1px 20px black;    
+    padding: 5px;
+    overflow: hidden;
+
+}
+.wrap{
+	margin:0 auto;
+	width:80%;
+}
+.table{
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
