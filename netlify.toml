@@ -1,0 +1,4 @@
+[[redirect]]
+from = "/*"
+to = "/index.php"
+stasus = 200
